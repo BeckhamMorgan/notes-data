@@ -1,0 +1,17 @@
+{
+  "version": 261031,
+  "expires": "2027-01-28T13:57:18Z",
+  "addresses": [
+    {
+      "host": "cdn.bluemaplejournal.com",
+      "kind": "cdn",
+      "priority": 10
+    },
+    {
+      "host": "cdn.redcoloredjournal.com",
+      "kind": "cdn",
+      "priority": 20
+    }
+  ],
+  "signature": "2br+VXWm87vgk68vZYXo7ZW15UoZFt9zPJ5KAGCPD8s5pFeXtk1c+hds7WCd+KmZW8imUsRppjJZzr/mDp/TBw=="
+}
