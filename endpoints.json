@@ -1,6 +1,6 @@
 {
-  "version": 261031,
-  "expires": "2027-01-28T13:57:18Z",
+  "version": 261101,
+  "expires": "2027-01-30T21:01:02Z",
   "addresses": [
     {
       "host": "cdn.bluemaplejournal.com",
@@ -13,5 +13,13 @@
       "priority": 20
     }
   ],
-  "signature": "2br+VXWm87vgk68vZYXo7ZW15UoZFt9zPJ5KAGCPD8s5pFeXtk1c+hds7WCd+KmZW8imUsRppjJZzr/mDp/TBw=="
+  "signature": "AX7CYZ5o3jxkPt17kWviCzQ1NfwViaj27bIvcPhrjaqV4bSXMktHE+/X3aB5LkuxMzX39wPA/mMYibkERZYxDg==",
+  "sealed": [
+    {
+      "v": 1,
+      "nonce": "FcDDZ84UweihrDkF",
+      "ct": "I5bN4VK7DgAzFmjeiXOupdbPbI7mYQv7xBLFzIhlfh9Y21ZDubTTAs2XvjYYp984aQSpzRyhHuwiaUO5AFHmymnd5VEtlLV56Dn5Kueq1oh5cV6ekyhNXcXL+OuFRTpo01MfC/+tWpgejckfK2e/lmJHH1WBiQ8FYnJcdL9TBjNaJ9oH6S45cWdbxdg9jDLc"
+    }
+  ],
+  "signature2": "VI/NPmSxfV4wopvHfLE1mxbDuAFdgVLGJhE+fs9sPRF5IQBIyEt6SFD10UaVzDEtj58j59cZYUDoI7qUiHHfDw=="
 }
